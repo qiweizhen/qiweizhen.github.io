@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+**ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training**  
+*Weizhen Qi, Yu Yan, Yeyun Gong, Dayiheng Liu, Nan Duan, Jiusheng Chen, Ruofei Zhang, Ming Zhou*  
+Findings of **EMNLP** 2020
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
