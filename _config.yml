@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weizhen Qi"
 title_separator          : "-"
 name                     : &name "Weizhen Qi 齐炜祯"
-description              : &description "Joint-PhD student of USTC & MSRA"
+description              : &description "Co-founder & CTO at 云玦科技 | Next-Generation AI Architecture Researcher"
 url                      : https://qiweizhen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qiweizhen/qiweizhen.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weizhen Qi"
+  name             : "Weizhen Qi 齐炜祯"
   avatar           : "my_profile_pic.jpg"
-  bio              : "Joint-PhD student of USTC & MSRA"
+  bio              : "Co-founder & CTO at 云玦科技 | Next-Generation AI Architecture Researcher | 3000+ citations, h-index 17"
   location         : "Beijing, China"
-  employer         :
+  employer         : "云玦科技"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rme-IWIAAAAJ"
-  email            :
+  email            : "qiweizhen@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

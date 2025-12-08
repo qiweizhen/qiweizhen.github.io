@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Weizhen Qi:
+  name        : "Weizhen Qi 齐炜祯"
+  uri         : "https://qiweizhen.github.io"
+  email       : "qiweizhen@outlook.com"
+  bio         : "Co-founder & CTO at 云玦科技 | Next-Generation AI Architecture Researcher | 3000+ citations, h-index 17"
+  avatar      : "my_profile_pic.jpg"
+  googlescholar: "https://scholar.google.com/citations?user=rme-IWIAAAAJ"
+  github      : "qiweizhen"
