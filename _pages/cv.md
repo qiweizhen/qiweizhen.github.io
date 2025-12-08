@@ -12,8 +12,8 @@ redirect_from:
 ## 基本信息
 
 **齐炜祯** (Weizhen Qi)  
-**邮箱：** qiweizhen@outlook.com  
-**电话：** 18225833885  
+**邮箱：** qiweizhen AT outlook.com  
+**电话：** 16599999899  
 **出生：** 1997年8月，男  
 **Google Scholar：** [https://scholar.google.com/citations?user=rme-IWIAAAAJ](https://scholar.google.com/citations?user=rme-IWIAAAAJ)
 

@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-我是**齐炜祯** (Weizhen Qi)，云玦科技联合创始人兼CTO，下一代AI架构的开创性研究者，专注于预训练、智能体和模型加速。论文引用3000+，h-index 17。
-
-我的论文可以在[这里](https://qiweizhen.github.io/publications/)找到。  
+我是**齐炜祯** (Weizhen Qi)，云玦科技联合创始人兼CTO，下一代AI架构的开创性研究者，专注于预训练、智能体和模型加速。论文引用3000，h-index 17。
+ 
 我的Google Scholar: [https://scholar.google.com/citations?user=rme-IWIAAAAJ](https://scholar.google.com/citations?user=rme-IWIAAAAJ)
 
 ## 专业摘要
@@ -27,22 +26,20 @@ redirect_from:
 
 ## 当前职位
 
-**云玦科技 | 联合创始人 & CTO** (2025.07 - 至今)
+云玦科技 ， 联合创始人 & CTO** (2025.07 - 至今)
 
 - 定义公司的AGI技术路线图，开创性地提出了"自主蝶变体"(AMI)的"四大公理"（无损进化、物理闭环、自举演化、个性化状态）。
 - 取得通用智能体核心榜单GAIA的世界第一，科研成果将于12月底或者1月初发布。
 - 主导设计了"云玦One OS"，一个以"用户意图"为内核的"关系型智能体原生操作系统"。
 - 设计了"软件先行"（iOS App验证）与"硬件V1"（端云协同）相结合的研发交付路线图。
 
-**中关村学院 | （兼职）科研共建导师** (2025.07-至今)
+中关村学院 ， （兼职）科研共建导师** (2025.07-至今)
 
-- 指导多名博士生的科研工作，原计划担任AGI学部副主任及智谱智能体联合实验室主任，离职后转为兼职科研共建导师。
+- 指导多名博士生的科研工作，离职后转为兼职科研共建导师。
 - ACL、EMNLP ARR 2025领域主席（Area Chair）
 
 ## 研究兴趣
 
-- 大规模预训练模型（Large-scale Pretraining）
-- 非自回归生成（Non-autoregressive Generation）
-- 智能体系统（Agent Systems）
-- 模型加速与部署优化（Model Acceleration & Deployment）
-- 多模态智能体（Multimodal Agents）
+- 自进化智能体
+- 预训练
+- 可穿戴设备交互
